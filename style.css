@@ -1,0 +1,71 @@
+/*Index*/
+body{
+    background-color: # brown;
+    font-family: arial;
+}
+
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+#container {
+    background-color: brown;
+    Width: 800px
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+     background-color: chocolate;
+     color:wheat;
+     text-align: left;
+     padding: 20px;
+     height: 20px;
+     list-style-type: none;
+}
+
+#nav {
+     background-color: rgb(206, 136, 32);
+     color:blanchedalmond;
+     padding: 10px;
+     height: 20px;
+     text-align:center; 
+     text-decoration: none;
+
+}
+
+#nav > li {
+    display:inline-block;
+}
+
+
+#content {
+  padding: 10 px;
+}
+
+#main {
+    width: 600px; 
+    float: right;
+    color: wheat;
+}
+
+#footer {
+   clear: both;
+   padding: 10px;
+   color: wheat;
+   background-color: chocolate;
+   text-align: right;
+
+}
+
+
+/* contact */
+
+
+
+
+
+
+/* portfolio */ 
+
