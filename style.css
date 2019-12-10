@@ -23,27 +23,21 @@ body {
   h2 {
     font-size: 24px;
   }
-  
-  a {
-    color: #d21034;
-  }
-  
+
   .container {
-    width: 1024px;
-    margin-top: 30px;
-    margin-right: 5px; 
-    position: absolute;
+    width: 100%;
+    margin: 40px; 
   }
   
   #main-bio,
   #bio-image {
     float: left;
-    margin: 20px;
+    margin: 40px;
   }
   
   #main-bio {
     width: 100%;
-    padding: 20 px;
+    padding: 40px;
   }
   
   
