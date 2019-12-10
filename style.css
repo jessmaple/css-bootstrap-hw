@@ -1,0 +1,110 @@
+/*Index*/
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+  }
+  
+  header {
+    background: #fbd2d7;
+    margin-bottom: -15px; 
+  }
+  
+  h1 {
+    padding: 25px 0;
+    font-size: 28px;
+    text-align: Center;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #d21034;
+  }
+  
+  .container {
+    width: 1024px;
+    margin-top: 30px;
+    margin-right: 5px; 
+    position: absolute;
+  }
+  
+  #main-bio,
+  #bio-image {
+    float: left;
+    margin: 20px;
+  }
+  
+  #main-bio {
+    width: 100%;
+    padding: 20 px;
+  }
+  
+  
+  #bio-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  }
+
+#footer { 
+    font-family: 'Libre Caslon Text', serif;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 12px;
+    color:#F24217;
+    text-align: left;
+    background-color: #fbd2d7; 
+}  
+
+
+
+/* Portfolio */
+portfoliobody {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 150%;
+    color: grey;
+    background: #efeee7;
+  }
+  
+  portfolioheader {
+    background: #fbd2d7;
+    margin-bottom: -15px; 
+  }
+  
+  h1 {
+    padding: 25px 0;
+    font-size: 28px;
+    text-align: Center;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #d21034;
+  }
+  
+  .container {
+    width: 1024px;
+    margin-top: 30px;
+    margin-right: 5px; 
+    position: absolute;
+  }
+  
+  #main-bio {
+    width: 100%;
+    padding: 20 px;
+  }
+  
+  
